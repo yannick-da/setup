@@ -30,7 +30,7 @@ $ pip3 install jupyter notebook
 It is a good idea to create an extra kernel so you run everything inside your virtualenv,
 make sure you have your virtualenv activated before you type the following command
 ```bash
-$ python -m ipykernel install --user --name=virtualenv-name
+$ python -m ipykernel install --user --name=your-virtualenv-name
 ```
 
 ## tmux
@@ -61,6 +61,10 @@ $ sudo apt-get install iotop
 Making sure you are not demolishing the python on your pc
 ```bash
 $ sudo apt-get install virtualenv
+```
+Once you have it installed you can create a new environment, using
+```bash
+$ virtualenv -p python3 your-virtualenv-name
 ```
 #### git
 Best program for version control
