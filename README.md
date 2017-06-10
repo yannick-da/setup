@@ -41,3 +41,13 @@ Helps to get insights of your systems aswell
 ```bash
 $ sudo apt-get install iotop
 ```
+#### virtualenv
+Making sure you are not demolishing the python on your pc
+```bash
+$ sudo apt-get install virtualenv
+```
+#### git
+Best program for version control
+```bash
+$ sudo apt-get install git
+```
