@@ -17,6 +17,22 @@ $ sudo apt-get install sublime-text-installer
 The configuration steps as well as the actual configuration can be found in the text file:
 "sublime_text.txt"
 
+## Jupyter notebook
+#### Description
+Great for analysis on bigger databases, thanks to the different cells. Let's assume you
+want everything to run inside your virtualenv, so before you do anything; activate your
+virtualenv.
+#### Installation
+```bash
+$ pip3 install jupyter notebook
+```
+#### Configuration
+It is a good idea to create an extra kernel so you run everything inside your virtualenv,
+make sure you have your virtualenv activated before you type the following command
+```bash
+$ python -m ipykernel isntall --user --name=virtualenv-name
+```
+
 ## tmux
 #### Description
 This is a usefull program to split the terminal and have multiple processes running. 
