@@ -30,7 +30,7 @@ $ pip3 install jupyter notebook
 It is a good idea to create an extra kernel so you run everything inside your virtualenv,
 make sure you have your virtualenv activated before you type the following command
 ```bash
-$ python -m ipykernel isntall --user --name=virtualenv-name
+$ python -m ipykernel install --user --name=virtualenv-name
 ```
 
 ## tmux
