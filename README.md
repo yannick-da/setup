@@ -3,8 +3,7 @@
 In this project you will find all the different programs with resp. configurations, that I use
 when programming.
 
-Let's see if you can use LateX in the README:
-  $\int_0^10 x^2dx$
-
-
-As we can see, this does not work....
+## tmux
+This is a usefull program to split the terminal and have multiple processes running. The configuration
+can be found in the tmux.conf file. Make sure you put this in your ~ folder but with the name 
+.tmux.conf
