@@ -3,6 +3,20 @@
 In this project you will find all the different programs with resp. configurations, that I use
 when programming.
 
+## Sublime text
+#### Description
+Text editor, which is lovely with snippets and a lot of shortcuts to speed up your programming
+#### Installation
+To install sublime-text-3, do the following
+```bash
+$ sudo add-apt-repository ppa:webupd8team/sublime-text-3
+$ sudo apt-get update
+$ sudo apt-get install sublime-text-installer
+```
+#### Configuration
+The configuration steps as well as the actual configuration can be found in the text file:
+"sublime_text.txt"
+
 ## tmux
 #### Description
 This is a usefull program to split the terminal and have multiple processes running. 
