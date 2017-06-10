@@ -26,8 +26,8 @@ Afterwards you just need to install the program using
 $ sudo apt-get install tmux
 ```
 #### Configuration
-The configuration can be found in the tmux.conf file. Make sure you put this in your ~ folder but with the name 
-.tmux.conf
+The configuration can be found in the "tmux.conf" file. Make sure you put this in your ~ folder but with the name 
+".tmux.conf" (yes the "." is important)
 
 
 ## Plugins
