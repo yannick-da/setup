@@ -48,7 +48,7 @@ The configuration can be found in the "tmux.conf" file. Make sure you put this i
 ## vim
 Best editor in the world.
 
-## plug-ins
+#### plug-ins
 * NERDTree
 * vim-commentary
 
