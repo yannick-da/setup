@@ -45,6 +45,12 @@ $ sudo apt-get install tmux
 The configuration can be found in the "tmux.conf" file. Make sure you put this in your ~ folder but with the name 
 ".tmux.conf" (yes the "." is important)
 
+## vim
+Best editor in the world.
+
+## plug-ins
+* NERDTree
+* vim-commentary
 
 ## Plugins
 #### htop
