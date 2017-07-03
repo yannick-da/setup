@@ -50,6 +50,7 @@ Best editor in the world. Some other repositories to look at
 * https://github.com/amix/vimrc
 * https://github.com/python-mode/python-mode
 * https://github.com/Mayccoll/Gogh
+* https://github.com/davidhalter/jedi-vim     (tab-completion)
 
 #### plug-ins
 * NERDTree
