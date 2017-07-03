@@ -46,11 +46,15 @@ The configuration can be found in the "tmux.conf" file. Make sure you put this i
 ".tmux.conf" (yes the "." is important)
 
 ## vim
-Best editor in the world.
+Best editor in the world. Some other repositories to look at 
+* https://github.com/amix/vimrc
+* https://github.com/python-mode/python-mode
+* https://github.com/Mayccoll/Gogh
 
 #### plug-ins
 * NERDTree
 * vim-commentary
+* Vundle
 
 ## Plugins
 #### htop
