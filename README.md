@@ -55,6 +55,7 @@ Best editor in the world. Some other repositories to look at
 * NERDTree
 * vim-commentary
 * Vundle
+* pymode
 
 ## Plugins
 #### htop
