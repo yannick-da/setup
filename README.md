@@ -3,6 +3,11 @@
 In this project you will find all the different programs with resp. configurations, that I use
 when programming.
 
+## Ubuntu setup
+* paper gtk theme
+* https://github.com/fossfreedom/indicator-sysmonitor
+* automatic back-up
+
 ## Sublime text
 #### Description
 Text editor, which is lovely with snippets and a lot of shortcuts to speed up your programming
