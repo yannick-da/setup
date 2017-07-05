@@ -7,6 +7,7 @@ when programming.
 * paper gtk theme
 * https://github.com/fossfreedom/indicator-sysmonitor
 * automatic back-up
+* block certain websites for productivity
 
 ## Sublime text
 #### Description
