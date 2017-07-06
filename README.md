@@ -8,6 +8,7 @@ when programming.
 * https://github.com/fossfreedom/indicator-sysmonitor
 * automatic back-up
 * block certain websites for productivity
+* include "set -o vi" in the .bashrc file to be able to use vi commands in the shell
 
 ## Sublime text
 #### Description
